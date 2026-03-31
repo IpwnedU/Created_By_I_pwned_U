@@ -10,4 +10,4 @@ This is where I am going to post any templates I make when I create graphics, mu
 
 Anything not originally made by me is exempt from the license and these requirements (such as promotional images for video games that I did not develop).
 
-Please refer to [the License](https://github.com/IpwnedU123/Created_By_I_pwned_U/blob/main/License.md) for more information.
+Please refer to [the license](https://github.com/IpwnedU123/Created_By_I_pwned_U/blob/main/License.md) for more information.
